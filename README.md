@@ -1,1 +1,3 @@
-# useful_sql_for_BigQuery
+# useful_sql
+
+ちょっとずつ更新していく
