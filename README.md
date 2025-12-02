@@ -1,0 +1,1 @@
+# useful_sql_for_BigQuery
